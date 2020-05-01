@@ -1,0 +1,3 @@
+testing the hashing system
+
+changing a single character should completely change the hash
